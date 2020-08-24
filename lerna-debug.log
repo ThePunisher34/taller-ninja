@@ -1,0 +1,21 @@
+0 silly argv {
+0 silly argv   _: [ 'clean' ],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'C:\\Users\\Usuario\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath C:\GitLocal\taller-ninja
+3 info Removing the following directories:
+4 info clean packages\common\node_modules
+4 info clean packages\native\node_modules
+4 info clean packages\web\node_modules
+5 info clean removing C:\GitLocal\taller-ninja\packages\common\node_modules
+6 silly rimrafDir C:\GitLocal\taller-ninja\packages\common\node_modules
+7 info clean removing C:\GitLocal\taller-ninja\packages\native\node_modules
+8 silly rimrafDir C:\GitLocal\taller-ninja\packages\native\node_modules
+9 info clean removing C:\GitLocal\taller-ninja\packages\web\node_modules
+10 silly rimrafDir C:\GitLocal\taller-ninja\packages\web\node_modules
+11 verbose rimrafDir removed C:\GitLocal\taller-ninja\packages\common\node_modules
+12 error Error: Command failed: C:\Program Files\nodejs\node.exe C:\GitLocal\taller-ninja\node_modules\rimraf\bin.js --no-glob C:\GitLocal\taller-ninja\packages\web\node_modules\
+12 error     at makeError (C:\GitLocal\taller-ninja\node_modules\execa\index.js:174:9)
+12 error     at C:\GitLocal\taller-ninja\node_modules\execa\index.js:278:16

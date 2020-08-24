@@ -1,0 +1,9 @@
+{
+  "name": "@taller-ninja/common",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "react-scripts": "3.4.1",
+    "typescript": "~3.7.2"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+
+# Expo
+.expo
+__generated__
+web-build
